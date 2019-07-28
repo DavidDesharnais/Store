@@ -1,0 +1,10 @@
+6
+BB	         A        	  1000	   1
+AA	         B		  1        10
+DD	         C	          2500     20
+CC               D                2000     35
+EE		 F		  4999     51
+FF      	 E	          5001     49
+Invalid          Crash            9999     9999
+Bad              Index            9999     9999
+Not       	 Dynamic          9999     9999
